@@ -1,0 +1,32 @@
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\CodeFirstNewDatabase.exe.config
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\CodeFirstNewDatabase.exe
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\CodeFirstNewDatabase.pdb
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.exe
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.pdb
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.Migrations.InitialCreate.resources
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.csproj.GenerateResource.Cache
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabaseSample.Migrations.AddUrl.resources
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.Migrations.AddUser.resources
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.Migrations.ChangeDisplayName.resources
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.Migrations.AddFavourite_OnePiece_Character.resources
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\CodeFirstNewDatabase.exe.config
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.exe
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.pdb
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\CodeFirstNewDatabase.exe
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\CodeFirstNewDatabase.pdb
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.Migrations.InitialCreate.resources
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabaseSample.Migrations.AddUrl.resources
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.Migrations.AddUser.resources
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.Migrations.ChangeDisplayName.resources
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.Migrations.AddFavourite_OnePiece_Character.resources
+C:\Users\Jasmin\Documents\GitHub\FIV_AUFGABE\CodeFirstNewDatabase\CodeFirstNewDatabase\obj\x86\Debug\CodeFirstNewDatabase.csproj.GenerateResource.Cache
